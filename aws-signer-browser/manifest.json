@@ -1,12 +1,12 @@
 {
-    "name": "AWS Signer Browser",
+    "name": "AWS Signer Browser Extended",
     "description": "Automatically sign requests to AWS",
-    "version": "0.1.1",
-    "homepage_url": "https://github.com/Frederick888/aws-signer-browser",
+    "version": "0.2.1",
+    "homepage_url": "https://github.com/dhanielo/aws-signer-browser",
     "manifest_version": 2,
     "applications": {
         "gecko": {
-            "id": "aws-signer-browser@tsundere.moe"
+            "id": "aws-signer-browser-extended@headdev.com.br"
         }
     },
     "icons": {
